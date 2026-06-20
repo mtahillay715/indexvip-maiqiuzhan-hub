@@ -1,2 +1,14 @@
 # indexvip-maiqiuzhan-hub
-HTML page archive and documentation
+
+自动发布文件目录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
